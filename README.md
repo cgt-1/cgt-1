@@ -126,22 +126,6 @@ I don't have everything figured out yet — this is more of an **area I'm intere
 
 ---
 
-## 📚 Currently Learning
-
-Right now, I'm trying to get better at:
-
-- 📊 Data analysis & statistics
-- 🤖 Machine learning fundamentals
-- 🧠 Deep learning
-- 🧹 Working with messy datasets
-- 📈 Time-series analysis
-- 🚀 Model deployment
-- 🏥 Healthcare Data Science
-
-And, of course, trying to understand **why something worked instead of just being happy that it worked**. 😭
-
----
-
 ## 🗂️ What's on This GitHub?
 
 You'll probably find a mixture of:
@@ -154,8 +138,6 @@ You'll probably find a mixture of:
 📈 Time-series forecasting  
 🚀 Model deployment projects  
 🌐 Web development projects  
-
-Some are polished projects, some are coursework, and some are simply experiments while I'm learning.
 
 ---
 
