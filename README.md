@@ -17,8 +17,6 @@ I'm also becoming more interested in **healthcare and health-related data**, alt
 - 🎓 Currently studying **Data Science**
 - 📊 I enjoy exploring and visualizing data
 - 🤖 Learning and experimenting with machine learning
-- 🧠 Slowly getting deeper into deep learning
-- 👁️ Interested in computer vision
 - 📈 Have been exploring time-series forecasting
 - 🚀 Learning how models can actually be deployed
 - 🏥 Curious about applications of Data Science in healthcare
