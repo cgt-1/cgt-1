@@ -1,14 +1,14 @@
-# Hi, I'm Gianna 👋🏻
+# Hello, I'm Gianna 👋🏻
 
-### 🎓 Data Science Student @ BINUS University
+### Currently a Data Science Student @ BINUS University
 
-I'm a Data Science student currently learning my way through **data analysis, machine learning, and deep learning**.
+I'm a Data Science student learning my way through **data analysis, machine learning, and deep learning**.
 
 I enjoy working with data, experimenting with different models, and turning things I've learned in class into small projects and experiments.
 
 I'm also becoming more interested in **healthcare and health-related data**, although I'm still figuring out exactly where I want to take that interest.
 
-> *Still learning, still experimenting, and occasionally wondering why my model did that.* 🤖
+> *Still learning, still experimenting, and wondering why my model did that.* 🤖
 
 ---
 
@@ -141,7 +141,7 @@ You'll probably find a mixture of:
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect !
 
 I'm always happy to connect with other students, developers, data people, or anyone interested in **Data Science, AI, or Healthcare**.
 
