@@ -8,7 +8,7 @@ I enjoy working with data, experimenting with different models, and turning thin
 
 I'm also becoming more interested in **healthcare and health-related data**, although I'm still figuring out exactly where I want to take that interest.
 
-> *Still learning, still experimenting, and wondering why my model did that.* 🤖
+> *Still learning, still experimenting, and wondering why my model did that.* 
 
 ---
 
